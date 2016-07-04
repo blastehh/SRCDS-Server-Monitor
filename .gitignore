@@ -1,0 +1,5 @@
+*.zip
+*.pfx
+SRCDS Server Monitor/SRCDS Server Monitor/obj/Debug/
+SRCDS Server Monitor/SRCDS Server Monitor/obj/
+SRCDS Server Monitor/SRCDS Server Monitor/bin/Debug/

@@ -1,4 +1,3 @@
-# SRCDS-Server-Monitor
 SRCDS Server Monitor Release Version 0.13.2
 
 This program requires .NET Framework 4.5.1 to run.
@@ -19,3 +18,12 @@ A few notes:
 - The config file is stored at C:\Users\<username>\AppData\Local\banana-ph.com\<version> ; I suggest not touching it unless you want to break stuff. (or back it up first if you decide to mess with it)
 - Added ability to export settings to xml.
 - Auto start option added. Configure each server individually. Add SRCDS Server Monitor to your start up folder or set up a task schedule to automate.
+
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
